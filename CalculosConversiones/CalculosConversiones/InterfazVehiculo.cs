@@ -55,6 +55,7 @@ namespace CalculosConversiones
             Console.WriteLine("La velocidad es: " + Velocidad);
         }
 
+
         public void ImprimirTiempo(float Tiempo)
         {
             Console.WriteLine("El tiempo es: " + Tiempo);
@@ -64,6 +65,7 @@ namespace CalculosConversiones
         {
             Console.WriteLine("La distancia es: " + Distancia);
         }
+
 
     }
 }
