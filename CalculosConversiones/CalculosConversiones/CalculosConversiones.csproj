@@ -43,7 +43,9 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Conversion.cs" />
     <Compile Include="Hectaria.cs" />
+    <Compile Include="InterfazConversion.cs" />
     <Compile Include="InterfazHectaria.cs" />
     <Compile Include="InterfazVehiculo.cs" />
     <Compile Include="Program.cs" />
