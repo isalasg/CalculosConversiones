@@ -43,11 +43,15 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Celcius.cs" />
     <Compile Include="Conversion.cs" />
     <Compile Include="Hectaria.cs" />
     <Compile Include="InterfazConversion.cs" />
+    <Compile Include="InterfazGradosC_K.cs" />
+    <Compile Include="InterfazGradosK_C.cs" />
     <Compile Include="InterfazHectaria.cs" />
     <Compile Include="InterfazVehiculo.cs" />
+    <Compile Include="Kelvin.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Vehiculo.cs" />

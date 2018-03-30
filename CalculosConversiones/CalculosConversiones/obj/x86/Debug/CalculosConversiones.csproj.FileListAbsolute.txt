@@ -5,3 +5,5 @@ C:\Users\alan_\Desktop\github\CalculosConversiones-master\CalculosConversiones\C
 C:\Users\alan_\Desktop\github\CalculosConversiones-master\CalculosConversiones\CalculosConversiones\obj\x86\Debug\CalculosConversiones.pdb
 C:\Users\MARIA NOELDA MARIANO\Documents\Git\CalculosConversiones\CalculosConversiones\CalculosConversiones\obj\x86\Debug\CalculosConversiones.exe
 C:\Users\MARIA NOELDA MARIANO\Documents\Git\CalculosConversiones\CalculosConversiones\CalculosConversiones\obj\x86\Debug\CalculosConversiones.pdb
+C:\Users\Ene\Documents\nacho\Git-Bash\PortableGit\Temperaturas\CalculosConversiones\CalculosConversiones\CalculosConversiones\obj\x86\Debug\CalculosConversiones.exe
+C:\Users\Ene\Documents\nacho\Git-Bash\PortableGit\Temperaturas\CalculosConversiones\CalculosConversiones\CalculosConversiones\obj\x86\Debug\CalculosConversiones.pdb
