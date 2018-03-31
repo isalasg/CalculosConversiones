@@ -5,17 +5,15 @@ using System.Text;
 
 namespace CalculosConversiones
 {
-    class Conversion
+    class KilosLibras
     {
         private double Kilo;
         private double Libra;
 
-
-        public Conversion()
+        public KilosLibras()
         {
             Kilo = 0;
             Libra = 0;
-
         }
 
         public void SetKilo(double Kilo)
@@ -28,7 +26,6 @@ namespace CalculosConversiones
             return Kilo;
         }
 
-
         public void SetLibra(double Libra)
         {
             this.Libra = Libra;
@@ -39,15 +36,14 @@ namespace CalculosConversiones
             return Libra;
         }
 
-        public void CalcularLK()
+        public void CalcularLibrasAKilos()
         {
             Kilo = Libra * 0.453592;
         }
-        public void CalcularKL()
+
+        public void CalcularKilosALibras()
         {
             Libra = Kilo * 2.20462;
         }
-
-
     }
 }

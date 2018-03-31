@@ -11,7 +11,8 @@ namespace CalculosConversiones
         private float Tiempo;
         private float Distancia;
 
-        public InterfazVehiculo (){
+        public InterfazVehiculo()
+        {
             Velocidad = 0;
             Tiempo = 0;
             Distancia = 0;
@@ -54,7 +55,6 @@ namespace CalculosConversiones
         {
             Console.WriteLine("La velocidad es: " + Velocidad);
         }
-
 
         public void ImprimirTiempo(float Tiempo)
         {

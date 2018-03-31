@@ -5,16 +5,15 @@ using System.Text;
 
 namespace CalculosConversiones
 {
-    class InterfazConversion
+    class InterfazKilosLibras
     {
         private double Kilo;
         private double Libra;
 
-        public InterfazConversion()
+        public InterfazKilosLibras()
         {
             Kilo = 0;
             Libra = 0;
-
         }
 
         public void PedirKilo()
@@ -29,20 +28,9 @@ namespace CalculosConversiones
             Kilo = double.Parse(Console.ReadLine());
         }
 
-        public void SetKilo(double Kilo)
-        {
-            this.Kilo = Kilo;
-        }
-
         public double GetKilo()
         {
             return Kilo;
-        }
-
-
-        public void SetLibra(double Libra)
-        {
-            this.Libra = Libra;
         }
 
         public double GetLibra()
@@ -59,12 +47,6 @@ namespace CalculosConversiones
         {
             Console.WriteLine("El resultado es: " + Libra);
         }
-
-
-
-
-
-        
 
     }
 }

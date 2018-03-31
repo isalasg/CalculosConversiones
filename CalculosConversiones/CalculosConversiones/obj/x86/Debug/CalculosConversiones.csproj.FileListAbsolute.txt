@@ -7,3 +7,8 @@ C:\Users\MARIA NOELDA MARIANO\Documents\Git\CalculosConversiones\CalculosConvers
 C:\Users\MARIA NOELDA MARIANO\Documents\Git\CalculosConversiones\CalculosConversiones\CalculosConversiones\obj\x86\Debug\CalculosConversiones.pdb
 C:\Users\Ene\Documents\nacho\Git-Bash\PortableGit\Temperaturas\CalculosConversiones\CalculosConversiones\CalculosConversiones\obj\x86\Debug\CalculosConversiones.exe
 C:\Users\Ene\Documents\nacho\Git-Bash\PortableGit\Temperaturas\CalculosConversiones\CalculosConversiones\CalculosConversiones\obj\x86\Debug\CalculosConversiones.pdb
+C:\Users\isala\OneDrive\Repositorios\ITSZN\ISF18J18\CalculosConversiones\CalculosConversiones\CalculosConversiones\obj\x86\Debug\CalculosConversiones.exe
+C:\Users\isala\OneDrive\Repositorios\ITSZN\ISF18J18\CalculosConversiones\CalculosConversiones\CalculosConversiones\obj\x86\Debug\CalculosConversiones.pdb
+C:\Users\isala\OneDrive\Repositorios\ITSZN\ISF18J18\CalculosConversiones\CalculosConversiones\CalculosConversiones\bin\Debug\CalculosConversiones.exe
+C:\Users\isala\OneDrive\Repositorios\ITSZN\ISF18J18\CalculosConversiones\CalculosConversiones\CalculosConversiones\bin\Debug\CalculosConversiones.pdb
+C:\Users\isala\OneDrive\Repositorios\ITSZN\ISF18J18\CalculosConversiones\CalculosConversiones\CalculosConversiones\obj\x86\Debug\CalculosConversiones.csprojResolveAssemblyReference.cache
