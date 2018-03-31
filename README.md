@@ -10,7 +10,7 @@
 * Conversión de Hectáreas a metros cuadrados  y viceversa (Alan). (con correcciones)
 * Conversión de Litros a Galones y viceversa (Aarón). X (No subió)
 * Conversión de Kilogramos a Libras y viceversa (Ramiro). Ok
-* Cambio de divisas (dólares - pesos -  euros) (Moises). X (No subió)
+* Cambio de divisas (dólares - pesos -  euros) (Moises). X (No subió.. Si estaba, pero no incluido en el proyecto)
     * Límite de entrega: Jueves 29
     * Todas las actividades incluyen la clase y la interfaz de dicha clase (para pedir e imprimir los datos)
 * Program (Axel), Límite de entrega: Lunes 2/04

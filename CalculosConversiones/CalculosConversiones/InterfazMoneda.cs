@@ -8,12 +8,10 @@ namespace CalculosConversiones
     class InterfazMoneda
     {
         private double Monto;
-        private double Total;
 
         public InterfazMoneda()
         {
             Monto = 0;
-            Total = 0;
         }
 
         public void PedirMonto()
@@ -25,18 +23,6 @@ namespace CalculosConversiones
         public double GetMonto()
         {
             return Monto;
-        }
-        public void SetMonto(double Monto)
-        {
-            this.Monto = Monto;
-        }
-        public double GetTotal()
-        {
-            return Total;
-        }
-        public void SetTotal(double Total)
-        {
-            this.Total = Total;
         }
 
         public void ImprimirTotal(double Total)
